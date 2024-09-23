@@ -1,0 +1,5 @@
+The objective of this study is to investigate the impact of sparsity in embeddings on the accuracy of node classification, modularity score, and link prediction within a graph. This study aims to explore methods to maintain high accuracy levels while simultaneously reducing memory usage by employing sparse embeddings.
+
+In graph-based machine learning tasks, embedding methods play a crucial role in representing nodes as low-dimensional vectors. Traditional dense embeddings store information for all possible features, which can result in increased memory requirements, especially for large graphs. Sparse embeddings, on the other hand, leverage techniques to store only essential features, potentially offering a more memory-efficient solution without compromising performance.
+
+We will evaluate the effectiveness of sparse embeddings in node classification accuracy, modularity scoring, and link prediction performance. By examining these metrics, we aim to uncover insights into the trade-offs between memory efficiency and task performance when utilizing sparse embeddings in graph-based machine learning applications.
